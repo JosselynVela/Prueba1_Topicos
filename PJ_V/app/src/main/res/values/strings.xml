@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PJ_V</string>
+    <string name="txt_eleccion">Lista de Compra</string>
+    <string name="app_texto">Escriba el tema</string>
+    <string name="app_guardar">Guardar</string>
+    <string name="app_precio">Escriba la cantidad</string>
+
+</resources>
